@@ -1,5 +1,11 @@
 # MachineManifesto
+<h2>https://github.com/cs-code-cs/MachineManifesto/blob/main/MachineManifesto.ipynb
 
+Above is the link to the art project notebook and below is a link to the entire project.
+
+https://github.com/cs-code-cs/MachineManifesto
+
+*Please note that the file lshw.html is my computer information. </h2>
 <b>Information Society and Its Future</b>
 <p>
 Introduction:
